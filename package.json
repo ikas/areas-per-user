@@ -1,0 +1,12 @@
+{
+  "name": "areas-per-user",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": "git@github.com:ikas/areas-per-user.git",
+  "author": "Henrique Pacheco <henrique.pacheco@vizzuality.com>",
+  "license": "MIT",
+  "private": false
+}
